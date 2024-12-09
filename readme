@@ -1,0 +1,4 @@
+git clone url
+npm init
+npm install
+nodemon app.js
