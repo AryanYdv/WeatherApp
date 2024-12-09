@@ -1,4 +1,4 @@
-git clone url
+git clone https://github.com/AryanYdv/WeatherApp.git
 npm init
 npm install
 nodemon app.js
